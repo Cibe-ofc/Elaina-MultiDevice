@@ -47,9 +47,9 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/znxphoenix' //Link Instagrammu
+global.sig = 'https://instagram.com/lynxofcid' //Link Instagrammu
 global.sgh = 'https://github.com/ImYanXiao' //Link Githubmu
-global.sgc = '-'
+global.sgc = 'https://chat.whatsapp.com/Fe2ky3uDJIdIvmtt41cO9h'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
@@ -61,13 +61,13 @@ global.psaweria = 'chatowner' //Link Saweriamu Kalo Nggada Ketik - aja
 /*============== NOMOR ==============*/
 global.nomorbot = '6285797375014' //Nomor Bot
 global.nomorown = '6285797375014' //Nomor Owner
-global.namebot = 'KING BOTZ' //Nama Bot
-global.nameown = 'KINGPONG' // Nama Owner
+global.namebot = 'Iky bot' //Nama Bot
+global.nameown = 'Kyky' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285797375014', '❦ KINGPONG? 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6285797375014', '❦ Kyky? 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
